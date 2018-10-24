@@ -3,7 +3,9 @@
 
 
 Step1: API 
-1) Cat Facts 
+1) Cat Facts (finished)
+2) PetFinder
+
 All data from APIs should be downloaded and parsed on a background thread(utilize Anko's do Async feature) using a black box "manager class) 
 
 Step2: RecyfclerView + cardView + grid Layout . 
