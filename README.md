@@ -8,4 +8,7 @@ Step1: API
 
 All data from APIs should be downloaded and parsed on a background thread(utilize Anko's do Async feature) using a black box "manager class) 
 
-Step2: RecyfclerView + cardView + grid Layout . 
+Step2: RecyfclerView + cardView + grid Layout . (Finished)
+
+Step3: Build API and petdetail
+
